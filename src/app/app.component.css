@@ -1,0 +1,36 @@
+.container {
+    max-width: 250px;
+    margin: 0 auto;
+    padding: 20px;
+    background-color: #ffffff;
+    border: 1px solid #cccccc;
+    border-radius: 5px;
+    margin-top: 100px;
+  }
+h2 {
+    text-align: center;
+    margin-bottom: 20px;
+  }
+  input[type="text"],
+  input[type="password"] {
+    width: 100%;
+    padding: 12px 20px;
+    margin: 8px 0;
+    display: inline-block;
+    border: none;
+    border-bottom: 2px solid #0ea99e;
+    box-sizing: border-box;
+  }
+
+button {
+    background-color: #6fbff1;
+    color: rgb(0, 0, 0);
+    padding: 14px 20px;
+    margin: 8px 0;
+    border: none;
+    cursor: pointer;
+    width: 100%;
+    margin-top: 50px;
+    border-radius: 15px;
+  }
+
